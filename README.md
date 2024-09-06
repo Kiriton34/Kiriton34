@@ -53,7 +53,7 @@ Ahora bien pasemos a las caracteristicas donde me interesa demostrar otras razon
 
 ### Backend
 
-En este momento quiero mostrarle mi conexion a base de datos y mostras una foto de los registro datos:
+En este momento quiero mostrarle mi conexion a base de datos.
 
 
 
@@ -104,7 +104,16 @@ public class Conexion {
     }
 }
 
-![](https://github.com/Kiriton34/Kiriton34/raw/main/Fotto.jpg)
+
+## Integrantes:
+
+-Jose David Roa Peñaloza
+
+-Juan Diego Parra Vasquez
+
+Grupo:B191
+
+
 
 
 
